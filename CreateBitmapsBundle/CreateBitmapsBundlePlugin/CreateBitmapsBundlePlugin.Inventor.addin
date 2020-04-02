@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Addin Type="Plugin">
+  <ClassId>{1453b73c-ebee-49cf-ba2b-4ffe0fe5d24b}</ClassId>
+  <ClientId>{1453b73c-ebee-49cf-ba2b-4ffe0fe5d24b}</ClientId>
+  <DisplayName>CreateBitmapsBundlePlugin</DisplayName>
+  <Description>a CreateBitmapsBundlePlugin</Description>
+  <Assembly>CreateBitmapsBundlePlugin.dll</Assembly>
+</Addin>
